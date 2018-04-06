@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CCXC</title>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            p,img,section,i {margin-left:10px;}
+            p {font-style:italic;color:#CCB000;}
+			i {display:block;}
+        </style>
+    </head>
+    <body>
+        <header>答案：可以发送到邮箱 paguridae_ccxc@126.com 
+或者加入qq群:192529698 私戳题主.
+所有答案正确的都会在github page(本页面)中标注出来，所以请在邮件中标注自己的名字(昵称)</header>
+        <section>
+            <h3>Problem 1</h3>
+            <img src="./image/aprA.jpg"/>
+			<i>hint: </i>
+            <div>
+                <h3>Problem 2</h3>
+                <img src="./image/abpb.jpg"/>
+				<i></i>
+            </div>
+
+    </body>
+</html>
